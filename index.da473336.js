@@ -1,0 +1,2 @@
+!function e(n,r){var t=document.createElement("ul");for(var o in n.appendChild(t),r){var l,a=document.createElement("li");a.innerHTML=o,t.appendChild(a),"object"==((l=r[o])&&"undefined"!=typeof Symbol&&l.constructor===Symbol?"symbol":typeof l)&&Object.keys(r[o]).length>0&&e(a,r[o])}}(document.querySelector("#tree"),{Drink:{Wine:{},Schnaps:{}},Fruit:{Red:{Cherry:{},Strawberry:{}},Yellow:{Banana:{},Pineapple:{}}}});
+//# sourceMappingURL=index.da473336.js.map
